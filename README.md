@@ -1,4 +1,5 @@
-# Hi there, I'm Sanika Chavan! ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hi there, I'm Sanika Chavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 I'm a **Software Engineer** and **AI Enthusiast**, currently pursuing my M.S. in **Computer Science** at **Arizona State University** (Graduating May 2025). I specialize in **Data Visualization**, **Machine Learning**, and **Full-Stack Development**, with a passion for building impactful software solutions.
  Check out my personal portfolio website:  
