@@ -1,6 +1,4 @@
-Here's an enhanced version of your GitHub profile README with improved aesthetics and layout:
 
-```markdown
 <h1 align="center">Hi there, I'm Sanika Chavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
@@ -57,24 +55,3 @@ Here's an enhanced version of your GitHub profile README with improved aesthetic
 
 2. **A Web-based Project Repository using ReactJS**  
    Published in **IEEE Xplore**, focusing on enhancing functionality and usability for academic project portals.
-```
-
-Here are the main changes and improvements:
-
-1. Used `<h1>`, `<h2>`, and `<h3>` tags for headings to create a clear hierarchy and improve readability.
-2. Added `align="center"` to headings and paragraphs to center-align the content.
-3. Wrapped the portfolio badge in a `<p>` tag with `align="center"` to center-align it.
-4. Grouped the tech stack badges into separate sections for better organization and visual appeal.
-5. Centered the GitHub stats images using `<p align="center">`.
-6. Removed the horizontal lines (`---`) as they are no longer necessary with the improved layout.
-
-These changes should make your GitHub profile README more visually appealing and easier to read. Feel free to further customize the layout, colors, and content to match your personal style and preferences.
-
-## 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanika-chavan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanikac10)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanikac10@gmail.com)
-
----
-
-Let me know if you'd like to tweak this further! 😊
