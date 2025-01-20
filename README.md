@@ -1,6 +1,7 @@
-# Hi there, I'm Sanika Chavan! 👋
+# Hi there, I'm Sanika Chavan! ![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
-I'm a **Software Engineer** and **AI Enthusiast** pursuing my M.S. in **Computer Science** at **Arizona State University** (Graduating May 2025). I specialize in **Data Visualization**, **Machine Learning**, and **Full-Stack Development**, with a passion for building impactful software solutions. Check out my personal portfolio website:  
+I'm a **Software Engineer** and **AI Enthusiast**, currently pursuing my M.S. in **Computer Science** at **Arizona State University** (Graduating May 2025). I specialize in **Data Visualization**, **Machine Learning**, and **Full-Stack Development**, with a passion for building impactful software solutions.
+ Check out my personal portfolio website:  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge)](https://sanikac10.github.io/my-portfolio/)
 
 ---
