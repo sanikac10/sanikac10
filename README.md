@@ -29,23 +29,6 @@ I'm a **Software Engineer** and **AI Enthusiast** pursuing my M.S. in **Computer
 
 ---
 
-## 🌟 **Featured Projects**
-### 1. **Data Leakage in LLMs**
-- **Description**: Designed a pipeline to identify data leakage scenarios in large language models like GPT-4, Claude, and Llama. Implemented modules for evaluating reasoning, generalization, and reliance on training data.
-- **Tech Stack**: Python, TensorFlow, NLP techniques
-- **Key Achievements**: Identified vulnerabilities in LLMs and proposed solutions for dynamic evaluation benchmarks.
-
-### 2. **KAN You See the Bias?**
-- **Description**: Built storytelling visualizations to explore biases in machine learning models using datasets like ADULT and WESAD. Compared MLPs and Knowledge-Aware Networks (KANs) for bias reduction.
-- **Tech Stack**: Python, D3.js, Pandas, Matplotlib
-- **Key Achievements**: Improved model generalization by 10% with KANs and enhanced user engagement by 20%.
-
-### 3. **WebDirect**
-- **Description**: Developed a web-based project repository with a content-based recommendation system using ReactJS and MongoDB. Initially built for the Smart India Hackathon, where it was ranked in the top 10.
-- **Tech Stack**: ReactJS, MongoDB, Machine Learning
-- **Key Achievements**: Addressed UI and search filter issues, providing a robust project showcase platform.
-
----
 
 ## 📈 **GitHub Stats**
 ![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanikac10&show_icons=true&theme=radical)
