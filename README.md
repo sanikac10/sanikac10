@@ -1,5 +1,4 @@
-
-<h1 align="center">Hello World, I'm Sanika Chavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Sanika Chavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://sanikac10.github.io/my-portfolio/">
@@ -42,7 +41,7 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanikac10&show_icons=true&theme=radical" alt="Sanika's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanikac10&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sanika's GitHub stats">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikac10&layout=compact&theme=radical" alt="Top Languages">
