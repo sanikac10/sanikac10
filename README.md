@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Sanika Chavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello World, I'm Sanika Chavan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://sanikac10.github.io/my-portfolio/">
