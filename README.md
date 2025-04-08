@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
  
-
 <h2 align="center">📚 Publications</h2>
 
 1. **WebDirect: A Web-based Project Repository**  
@@ -47,3 +46,13 @@
 
 2. **A Web-based Project Repository using ReactJS**  
    Published in **IEEE Xplore**, focusing on enhancing functionality and usability for academic project portals.
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanikac10&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<h2 align="center">💻 Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikac10&layout=compact&theme=radical" alt="Top Languages">
+</p>
