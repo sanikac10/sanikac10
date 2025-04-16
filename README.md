@@ -47,10 +47,6 @@
 2. **A Web-based Project Repository using ReactJS**  
    Published in **IEEE Xplore**, focusing on enhancing functionality and usability for academic project portals.
 
-//<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanikac10&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
 
 <h2 align="center">💻 Most Used Languages</h2>
 <p align="center">
