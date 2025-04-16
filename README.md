@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a <strong>Software Engineer</strong> and <strong>AI Enthusiast</strong>, currently pursuing my M.S. in <strong>Computer Science</strong> at <strong>Arizona State University</strong> (Graduating May 2025). I specialize in <strong>Data Visualization</strong>, <strong>Machine Learning</strong>, and <strong>Full-Stack Development</strong>, with a passion for building impactful software solutions.
+  I'm a <strong>Software Engineer</strong> and <strong>Gen AI Researcher</strong>, currently pursuing my M.S. in <strong>Computer Science</strong> at <strong>Arizona State University</strong> (Graduating May 2025). I specialize in <strong>LLM training and performance optimization</strong>, <strong>Data Visualization</strong>, and <strong>Full-Stack Development</strong>, with a passion for building impactful software solutions.
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
