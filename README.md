@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  I'm a <strong>Software Engineer</strong> and <strong>Gen AI Researcher</strong>, currently pursuing my M.S. in <strong>Computer Science</strong> at <strong>Arizona State University</strong> (Graduating May 2025). I specialize in <strong>LLM training and performance optimization</strong>, Machine Learning, <strong>Data Visualization</strong>, and <strong>Full-Stack Development</strong>, with a passion for building impactful software solutions.
+  I’m an AI researcher and recent Computer Science graduate from Arizona State University, specializing in reasoning, in-context fine-tuning (IFT), and alignment. My work centers on advanced reinforcement-learning algorithms (GRPO & PPO) and reasoning-distillation (DeepSeek-R1), with a focus on robust LLM data-leakage evaluation.
+
+As the Strong Compute ARC-AGI Track Winner, I thrive at the intersection of cutting-edge research and real-world impact. I enjoy collaborating with cross-functional teams to translate novel AI techniques into scalable, trustworthy solutions. Let’s connect if you’re interested in AI alignment, reinforcement learning, or next-generation language models.
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
