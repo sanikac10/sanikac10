@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://sanikac10.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge" alt="Portfolio ">
   </a>
 </p>
 
