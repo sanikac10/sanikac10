@@ -37,7 +37,18 @@ As the Strong Compute  <strong>ARC-AGI</strong> Track Winner, I thrive at the in
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
- 
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=sanikac10&label=PROFILE+VIEWS" alt="Profile Views" />&nbsp;
+  <!-- Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikac10&theme=dracula" alt="Profile Summary" />&nbsp;
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikac10&theme=radical" alt="GitHub Streak" />&nbsp;
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sanikac10&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
 <h2 align="center">📚 Publications</h2>
 
 1. **WebDirect: A Web-based Project Repository**  
