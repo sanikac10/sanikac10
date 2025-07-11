@@ -15,7 +15,7 @@ As the Strong Compute  <strong>ARC-AGI</strong> Track Winner, I thrive at the in
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=sanikac10&label=PROFILE+VIEWS" alt="Profile Views" />&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sanikac10&label=PROFILE+VIEWS" alt="Profile Views" />&nbsp; <br>
   <!-- Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikac10&theme=dracula" alt="Profile Summary" />&nbsp;
   <!-- Streak Stats -->
