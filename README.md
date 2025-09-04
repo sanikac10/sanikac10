@@ -8,9 +8,11 @@
 
 <p align="center">
   I’m an <strong>AI researcher</strong>, specializing in  <strong>LLM training (SFT, RL, IFT, GRPO, DPO)</strong>, <strong>distributed training (PyTorch, Flash Attention, vLLM,, TensorFlow) </strong>, studying model behaviour and LLM Security. 
-
+</p>
+<p align="center">
   Recently, I trained an open-source model that achieved <strong>5%</strong> accuracy on the ARC-AGI-2 challenge, a benchmark for testing fluid intelligence in LLMs. This work earned $4,000 worth of compute credits to further iterate and improve the technique.
-
+</p>
+<p align="center">
   I thrive at the intersection of cutting-edge research and real-world impact. I enjoy collaborating with cross-functional teams to translate novel AI techniques into scalable, trustworthy solutions. Let’s connect if you’re interested in AI alignment, reinforcement learning, or next-generation language models.
 </p>
 
