@@ -20,7 +20,5 @@ I thrive at the intersection of cutting-edge research and real-world impact. I e
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikac10&theme=dracula" alt="Profile Summary" />&nbsp;
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikac10&theme=radical" alt="GitHub Streak" />&nbsp;
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sanikac10&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
