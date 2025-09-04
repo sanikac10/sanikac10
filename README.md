@@ -16,9 +16,5 @@ I thrive at the intersection of cutting-edge research and real-world impact. I e
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=sanikac10&label=PROFILE+VIEWS" alt="Profile Views" />&nbsp; <br>
-  <!-- Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikac10&theme=dracula" alt="Profile Summary" />&nbsp;
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikac10&theme=radical" alt="GitHub Streak" />&nbsp;
 </p>
 
